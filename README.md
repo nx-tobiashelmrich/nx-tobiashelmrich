@@ -1,9 +1,3 @@
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nx-tobiashelmrich&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
+![](https://github-readme-stats.vercel.app/api?username=nx-tobiashelmrich&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1)
 ###
-
-<img src="https://raw.githubusercontent.com/nx-tobiashelmrich/nx-tobiashelmrich/output/snake.svg" alt="Snake animation" />
-
-###
+![](https://raw.githubusercontent.com/nx-tobiashelmrich/nx-tobiashelmrich/output/snake.svg)
